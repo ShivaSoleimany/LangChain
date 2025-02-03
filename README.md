@@ -109,15 +109,21 @@ Sources are displayed alongside the answer for verification.
 🔹 Better ranking of retrieved documents for improved accuracy. -->
 
 ## **🛠️ Technologies Used**
-🚀 LLMs: OpenAI GPT-4, Hugging Face
-📊 Vector Database: FAISS
-🌐 Web Search: SerpAPI, DuckDuckGO
-🔍 Semantic Search: Embeddings-based retrieval
-💻 Frameworks: LangChain, Streamlit
-📜 Text Processing: BeautifulSoup, Recursive Text Splitter
+🚀 LLMs: OpenAI GPT-4, Hugging Face 
+
+📊 Vector Database: FAISS 
+
+🌐 Web Search: SerpAPI, DuckDuckGO 
+
+🔍 Semantic Search: Embeddings-based retrieval 
+
+💻 Frameworks: LangChain, Streamlit 
+
+📜 Text Processing: BeautifulSoup, Recursive Text Splitter 
 
 ## **📩 Contact & Contribution**
 🚀 Want to contribute? Open a PR!
+
 💡 Found an issue? Report it under GitHub Issues.
 
 📧 Contact: shiva.soleimany.dzch@gmail.com
